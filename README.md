@@ -36,6 +36,10 @@ This project aims to boost Atliq Grands' market share and revenue within the lux
 •	By referring to different cancellation policies followed by various hotels, I understood that most hotels charge zero fees only if the booking is canceled more than three months before the booking date. If the booking is canceled after that, the charges range from 60% to 90% of the booking cost.   
 •	Learned how to use bookmarks and selection for different purposes. Page navigation and the clear filter button in the dashboard were achieved using bookmarks and selection.   
 
+----------------------------------------------------------------------------------------------
+
+
+
 **KEY INSIGHTS FROM THE DASHBOARD:**
 
 •	Mumbai generates the highest revenue (669M), followed by Bangalore, Hyderabad, and Delhi.   
@@ -45,6 +49,9 @@ This project aims to boost Atliq Grands' market share and revenue within the lux
 •	Delhi tops both in occupancy and rating, followed by Hyderabad, Mumbai, and Bangalore.   
 •	AtliQ lost around 298 million due to cancellations.   
 •	Elite-type rooms have the most bookings and also a higher cancellation rate.   
+
+----------------------------------------------------------------------------------------------
+
 
 
 
