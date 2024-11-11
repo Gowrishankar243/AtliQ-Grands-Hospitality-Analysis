@@ -14,19 +14,22 @@ This project aims to boost Atliq Grands' market share and revenue within the lux
 
 **DATA MODELING:**
 
-![Data Model](https://github.com/user-attachments/assets/5fc0a876-e06d-40e0-b9dd-ccebb2788b50)
+![Data Model](https://github.com/user-attachments/assets/9ce7862e-e84a-45ce-932f-da77644de743)
+
 
 ----------------------------------------------------------------------------------------------
 
 **OVERALL ANALYSIS PAGE**
 
-![Hospitality Domain - Overall Analysis](https://github.com/user-attachments/assets/199f1222-70a5-49ec-97f8-7370a174536f)
+![Overall Analysis](https://github.com/user-attachments/assets/45c1d6fb-9922-47ef-88d3-4a81ce1f149f)
+
 
 ----------------------------------------------------------------------------------------------
 
 **MONTHLY ANALYSIS PAGE**
 
-![Hospitality Domain - Monthly Analysis](https://github.com/user-attachments/assets/a29c657c-0917-4f43-b445-430afcc6eb45)
+![Monthly Analysis](https://github.com/user-attachments/assets/86d4fddd-dc59-47f5-8cd7-d83341552188)
+
 
 ----------------------------------------------------------------------------------------------
 
