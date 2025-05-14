@@ -1,62 +1,82 @@
-# AtliQ-Grands-Hospitality-Analysis
+# 🏏 IPL-PERFORMANCE ANALYSIS (2021-2023) - INSIGHTS AND PREDICTIONS
 
-**PROJECT OVERVIEW:**
+## 📝Problem Statement:
+"Sports Basics," a recent entrant in the sports blog space, aims to boost website traffic by releasing a special edition magazine on IPL 2024. 
+ To provide engaging insights and facts, they turn to data analytics. 
+ 
+ ## 💡Primary and Secondary Analysis:
 
-Atliq Grands has seen a decline in its market share and revenue due to competitive pressures and management decisions. This project is centered around revitalizing the business by utilizing hospitality analytics to make well-informed decisions.
+### ✨Primary Insights:
 
-----------------------------------------------------------------------------------------------
+- Top 10 batsmen based on total runs scored in the last 3 years.</br>
+- Top 10 batsmen based on batting average in the last 3 years (min 60 balls faced in each season).</br>
+- Top 10 batsmen based on strike rate in the last 3 years (min 60 balls faced in each season).</br>
+- Top 10 bowlers based on total wickets taken in the last 3 years.</br>
+- Top 10 bowlers based on bowling average in the last 3 years (min 60 balls bowled in each season).</br>
+- Top 10 bowlers based on economy rate in the last 3 years (min 60 balls bowled in each season).</br>
+- Top 5 batsmen based on boundary percentage (fours and sixes) in the last 3 years.</br>
+- Top 5 bowlers based on dot ball percentage in the last 3 years.</br>
+- Top 4 teams based on winning percentage in the last 3 years.</br>
+- Top 2 teams with the highest number of wins achieved by chasing targets over the last 3 years.</br>
 
-**GOAL:**
+### 🌟Secondary Insights:
 
-This project aims to boost Atliq Grands' market share and revenue within the luxury business hotel sector. The company aims to surpass competitors and enhance management decision-making by applying data-driven strategies and business intelligence.
+- Prediction for Orange and Purple Cap players in the 2024 season.</br>
+- Prediction of the top 4 qualifying teams for 2024.</br>
+- Prediction of the winner and runner-up for 2024.</br>
+- Selection of the Best 11 players for your team based on positions, 3 years' performance data, and additional research.</br>
+- Selection of the top 3 all-rounders for your team.</br>
 
-----------------------------------------------------------------------------------------------
+## 🏠Homepage
 
-**DATA MODELING:**
+![Homepage.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Homepage.png)
 
-![Data Model](https://github.com/user-attachments/assets/9ce7862e-e84a-45ce-932f-da77644de743)
+## 📆Fixtures & Results
+
+![Fixtures & Results.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Fixtures%20%26%20Results.png)
+
+## 📊Points Table
+
+![Points Table.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Points%20Table.png)
+
+## 🟠Orange Cap Stats
+
+![Orange Cap Stats.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Orange%20Cap%20Stats.png)
+
+## 🟣Purple Cap Stats
+
+![Purple Cap Stats.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Purple%20Cap%20Stats.png)
+
+## 👥All Teams
+
+![All Teams.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/All%20Teams.png)
+
+## 🕵️‍♂️Player Analysis - Power Hitters
+
+![Player Analysis - Power Hitters.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Power%20Hitters.png)
+
+## 🕵️‍♂️Player Analysis - Anchors
+
+![Player Analysis - Anchors.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Anchors.png)
+
+## 🕵️‍♂️Player Analysis - Finishers/Allrounders
+
+![Player Analysis - Allrounders (Finishers).png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Allrounders%20(Finishers).png)
+
+## 🕵️‍♂️Player Analysis - Bowlers
+
+![Player Analysis - Bowlers.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Bowlers.png)
+
+## 🏆Final XI
+
+![Final XI.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Final%20XI.png)
+
+## 🆕Latest Match
+
+![2024 Latest Match.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/2024%20Latest%20Match.png)
 
 
-----------------------------------------------------------------------------------------------
+## 🎯Project Outcome
 
-**OVERALL ANALYSIS PAGE**
-
-![Overall Analysis](https://github.com/user-attachments/assets/45c1d6fb-9922-47ef-88d3-4a81ce1f149f)
-
-
-----------------------------------------------------------------------------------------------
-
-**MONTHLY ANALYSIS PAGE**
-
-![Monthly Analysis](https://github.com/user-attachments/assets/86d4fddd-dc59-47f5-8cd7-d83341552188)
-
-
-----------------------------------------------------------------------------------------------
-
-**KEY TAKEAWAYS:**
-
-•	Learned to build a new visual (Calendar visual) using a matrix table, which can be utilized for different analysis purposes.   
-•	By referring to different cancellation policies followed by various hotels, I understood that most hotels charge zero fees only if the booking is canceled more than three months before the booking date. If the booking is canceled after that, the charges range from 60% to 90% of the booking cost.   
-•	Learned how to use bookmarks and selection for different purposes. Page navigation and the clear filter button in the dashboard were achieved using bookmarks and selection.   
-
-----------------------------------------------------------------------------------------------
-
-
-
-**KEY INSIGHTS FROM THE DASHBOARD:**
-
-•	Mumbai generates the highest revenue (669M), followed by Bangalore, Hyderabad, and Delhi.   
-•	AtliQ Exotica performs better than all seven types of properties, with a revenue of 320 million, a rating of 3.62, an occupancy percentage of 57, and a cancellation rate of 24.4%.   
-•	AtliQ Bay has the highest occupancy rate of 66%.   
-•	Week 24 recorded the highest revenue of all, which is 139.6 million.   
-•	Delhi tops both in occupancy and rating, followed by Hyderabad, Mumbai, and Bangalore.   
-•	AtliQ lost around 298 million due to cancellations.   
-•	Elite-type rooms have the most bookings and also a higher cancellation rate.   
-
-----------------------------------------------------------------------------------------------
-
-
-
-
-
+This project aims to provide valuable insights and predictions for IPL enthusiasts, analysts, and teams.
 
