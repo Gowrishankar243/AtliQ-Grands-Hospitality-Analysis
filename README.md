@@ -34,47 +34,58 @@
 
 ## 📆Fixtures & Results
 
-![Fixtures & Results.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Fixtures%20%26%20Results.png)
+![Fixtures   Results](https://github.com/user-attachments/assets/205d8bf9-68e3-499d-9ab8-b6132c202251)
+
 
 ## 📊Points Table
 
-![Points Table.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Points%20Table.png)
+![Points Table](https://github.com/user-attachments/assets/bb1a03ac-9809-496c-9c07-8cb8e9a71dbb)
+
 
 ## 🟠Orange Cap Stats
 
-![Orange Cap Stats.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Orange%20Cap%20Stats.png)
+![Orange Cap Stats](https://github.com/user-attachments/assets/75ddc51d-4b1e-476d-a2ce-4cd4bce1a292)
+
 
 ## 🟣Purple Cap Stats
 
-![Purple Cap Stats.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Purple%20Cap%20Stats.png)
+![Purple Cap Stats](https://github.com/user-attachments/assets/6905824c-e69b-4e02-a441-7e4d9946b15a)
+
 
 ## 👥All Teams
 
-![All Teams.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/All%20Teams.png)
+![All Teams](https://github.com/user-attachments/assets/d83a3883-841a-4414-b6a1-c12d609ce600)
+
 
 ## 🕵️‍♂️Player Analysis - Power Hitters
 
-![Player Analysis - Power Hitters.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Power%20Hitters.png)
+![Player Analysis - Power Hitters](https://github.com/user-attachments/assets/936faac6-5b3d-4aef-b342-7e8287995fe5)
+
 
 ## 🕵️‍♂️Player Analysis - Anchors
 
-![Player Analysis - Anchors.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Anchors.png)
+![Player Analysis - Anchors](https://github.com/user-attachments/assets/4a695034-6954-4999-9565-9ec7e81ba912)
+
 
 ## 🕵️‍♂️Player Analysis - Finishers/Allrounders
 
-![Player Analysis - Allrounders (Finishers).png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Allrounders%20(Finishers).png)
+![Player Analysis - Allrounders (Finishers)](https://github.com/user-attachments/assets/9cf7b468-6d9d-4249-be02-5dc51fa94e20)
+
 
 ## 🕵️‍♂️Player Analysis - Bowlers
 
-![Player Analysis - Bowlers.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Player%20Analysis%20-%20Bowlers.png)
+![Player Analysis - Bowlers](https://github.com/user-attachments/assets/b36ed92e-f362-407d-88d3-547a50a58a27)
+
 
 ## 🏆Final XI
 
-![Final XI.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Final%20XI.png)
+![Final XI](https://github.com/user-attachments/assets/02468a07-fa35-4088-b70d-1cdcecda1ca6)
+
 
 ## 🆕Latest Match
 
-![2024 Latest Match.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/2024%20Latest%20Match.png)
+![2024 Latest Match](https://github.com/user-attachments/assets/377ba429-56bd-4cb7-bca5-8db4627e5e7c)
+
 
 
 ## 🎯Project Outcome
