@@ -29,7 +29,8 @@
 
 ## 🏠Homepage
 
-![Homepage.png](https://github.com/Pravesh-Agarwal/IPL-Analysis/blob/main/Resources/Homepage.png)
+![Homepage](https://github.com/user-attachments/assets/896842bc-9da5-468a-8486-5c95738d74fe)
+
 
 ## 📆Fixtures & Results
 
